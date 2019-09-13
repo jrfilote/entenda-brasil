@@ -1,8 +1,8 @@
-# Linha do Tempo | VazaJato 
+# Linha do Tempo | Brasil
 
 [![Build Status](https://travis-ci.com/daviferreira/vazajato.me.svg?branch=master)](https://travis-ci.com/daviferreira/vazajato.me)
 
-Página listando todas as reportagens publicadas até agora na #VazaJato.
+Página com as reportagens dos últimos anos publicadas no Brasil.
 
 1.  **Start developing.**
 
